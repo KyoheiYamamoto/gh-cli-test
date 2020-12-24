@@ -3,4 +3,6 @@ bokeboke
 yamamoto
 test 1 
 ago
+bokeboke
+kasu
 hahahaha
